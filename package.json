@@ -8,13 +8,13 @@
 		"get": "index.js"
 	},
 	"author": {
-		"name": "mike umeokoli",
-		"email": "michaeljunior794@gmail.com",
-		"url": "http://mikey24-7.xyz"
+		"name": "atanda0x",
+		"email": "atandanafiu21@gmail.com"
+		
 	},
 	"keywords": [
 		"csv-sha256-calculator",
-		"mike umeokoli"
+		"atanda nafiu"
 	],
 	"files": [
 		"index.js",

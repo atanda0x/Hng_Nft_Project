@@ -3,7 +3,7 @@
 #### Clone the project
 
 ```bash
-  git clone https://github.com/mikey247/csv-sha-256-creator.git
+  git clone https://github.com/Atandanafiu/Hng_Nft_Project.git
 ```
 
 #### Go to the project directory
